@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rancid-tomatillos/static/css/main.7037e9aa.css",
-    "main.js": "/rancid-tomatillos/static/js/main.11074e13.js",
+    "main.js": "/rancid-tomatillos/static/js/main.88e93d2d.js",
     "static/js/787.55352625.chunk.js": "/rancid-tomatillos/static/js/787.55352625.chunk.js",
     "static/media/old-school-theater-banner.png": "/rancid-tomatillos/static/media/old-school-theater-banner.e1f57d92e54a12ac3d78.png",
     "static/media/spilled-popcorn.png": "/rancid-tomatillos/static/media/spilled-popcorn.ffb0ff12f6716e2d5a7f.png",
@@ -9,11 +9,11 @@
     "static/media/exit-arrow.png": "/rancid-tomatillos/static/media/exit-arrow.60dbbbb01c05b91a216c.png",
     "index.html": "/rancid-tomatillos/index.html",
     "main.7037e9aa.css.map": "/rancid-tomatillos/static/css/main.7037e9aa.css.map",
-    "main.11074e13.js.map": "/rancid-tomatillos/static/js/main.11074e13.js.map",
+    "main.88e93d2d.js.map": "/rancid-tomatillos/static/js/main.88e93d2d.js.map",
     "787.55352625.chunk.js.map": "/rancid-tomatillos/static/js/787.55352625.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7037e9aa.css",
-    "static/js/main.11074e13.js"
+    "static/js/main.88e93d2d.js"
   ]
 }
