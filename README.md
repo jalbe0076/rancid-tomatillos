@@ -12,10 +12,10 @@ It's not netflix, rotten tomatoes, or even IMBD.
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" /> 
 
-[DEPLOYED LINK](https://rancidtomatillos-3e0909ae5fad.herokuapp.com/)
+[DEPLOYED LINK](https://jalbe0076.github.io/rancid-tomatillos/)
 
 </div>
 
@@ -70,9 +70,9 @@ This is a movie rating website that uses the fetch API to display information ab
 - A total of approximately 30 hours was spent on this project between 2 contributors. 
 
 ## Contributors: 
-- [Laura Garcia Guerra](https://github.com/lauraguerra1)
-
 - [Jason Alberto](https://github.com/jalbe0076)
+
+- [Laura Garcia Guerra](https://github.com/lauraguerra1)
 
 
 ## Learning Goals:
