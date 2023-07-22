@@ -52,8 +52,8 @@ This is a movie rating website that uses the fetch API to display information ab
 </div>
 
 ## Installation Instructions 
-- Fork [this](https://github.com/lauraguerra1/rancid-tomatillos) repository. 
-- Clone it to your local machine using the command: `git clone git@github.com:lauraguerra1/rancid-tomatillos.git`.
+- Fork [this](https://github.com/jalbe0076/rancid-tomatillos) repository. 
+- Clone it to your local machine using the command: `git clone git@github.com:jalbe0076/rancid-tomatillos.git`.
 - Run the command: `cd rancid-tomatillos`
 - Run the command: `npm install`
 - Run the command: `npm start`
